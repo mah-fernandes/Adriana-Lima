@@ -1,0 +1,31 @@
+body{
+    text-align:center;
+    background-color:#6859cd;}
+img{
+    width: 500px; 
+    height: 500px;
+border-style:groove;
+border-radius:20px;
+border-color:blueviolet;
+}
+
+p{
+    font-size:30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;}
+    h1{
+        font-size: 30px;
+        color: aliceblue;
+        font-family: Arial, Helvetica, sans-serif;}
+        a{ 
+            font-size: medium;
+            color:darkblue;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        iframe{
+            border-radius: initial;
+            border-style: double;
+            border-width: thick;
+            border-color: blueviolet;
+        }
+        
